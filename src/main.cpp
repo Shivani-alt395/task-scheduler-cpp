@@ -81,6 +81,6 @@ int main() {
         }
     }
 
-    std::cout << "Goodbye.\n";
+    std::cout << "Exit.\n";
     return 0;
 }
